@@ -1,0 +1,16 @@
+E:\OneDrive\Projects\Misc\Exercise\Snakey\Uptime.Snakey.BusinessDomain\Uptime.Snakey.BusinessDomain\bin\Debug\netcoreapp3.0\Uptime.Snakey.BusinessDomain.deps.json
+E:\OneDrive\Projects\Misc\Exercise\Snakey\Uptime.Snakey.BusinessDomain\Uptime.Snakey.BusinessDomain\bin\Debug\netcoreapp3.0\Uptime.Snakey.BusinessDomain.dll
+E:\OneDrive\Projects\Misc\Exercise\Snakey\Uptime.Snakey.BusinessDomain\Uptime.Snakey.BusinessDomain\bin\Debug\netcoreapp3.0\Uptime.Snakey.BusinessDomain.pdb
+E:\OneDrive\Projects\Misc\Exercise\Snakey\Uptime.Snakey.BusinessDomain\Uptime.Snakey.BusinessDomain\obj\Debug\netcoreapp3.0\Uptime.Snakey.BusinessDomain.csproj.CoreCompileInputs.cache
+E:\OneDrive\Projects\Misc\Exercise\Snakey\Uptime.Snakey.BusinessDomain\Uptime.Snakey.BusinessDomain\obj\Debug\netcoreapp3.0\Uptime.Snakey.BusinessDomain.AssemblyInfoInputs.cache
+E:\OneDrive\Projects\Misc\Exercise\Snakey\Uptime.Snakey.BusinessDomain\Uptime.Snakey.BusinessDomain\obj\Debug\netcoreapp3.0\Uptime.Snakey.BusinessDomain.AssemblyInfo.cs
+E:\OneDrive\Projects\Misc\Exercise\Snakey\Uptime.Snakey.BusinessDomain\Uptime.Snakey.BusinessDomain\obj\Debug\netcoreapp3.0\Uptime.Snakey.BusinessDomain.dll
+E:\OneDrive\Projects\Misc\Exercise\Snakey\Uptime.Snakey.BusinessDomain\Uptime.Snakey.BusinessDomain\obj\Debug\netcoreapp3.0\Uptime.Snakey.BusinessDomain.pdb
+C:\Users\artjomj\Desktop\SnakeyNew\Snakey\Uptime.Snakey.BusinessDomain\Uptime.Snakey.BusinessDomain\bin\Debug\netcoreapp3.0\Uptime.Snakey.BusinessDomain.deps.json
+C:\Users\artjomj\Desktop\SnakeyNew\Snakey\Uptime.Snakey.BusinessDomain\Uptime.Snakey.BusinessDomain\bin\Debug\netcoreapp3.0\Uptime.Snakey.BusinessDomain.dll
+C:\Users\artjomj\Desktop\SnakeyNew\Snakey\Uptime.Snakey.BusinessDomain\Uptime.Snakey.BusinessDomain\bin\Debug\netcoreapp3.0\Uptime.Snakey.BusinessDomain.pdb
+C:\Users\artjomj\Desktop\SnakeyNew\Snakey\Uptime.Snakey.BusinessDomain\Uptime.Snakey.BusinessDomain\obj\Debug\netcoreapp3.0\Uptime.Snakey.BusinessDomain.csprojAssemblyReference.cache
+C:\Users\artjomj\Desktop\SnakeyNew\Snakey\Uptime.Snakey.BusinessDomain\Uptime.Snakey.BusinessDomain\obj\Debug\netcoreapp3.0\Uptime.Snakey.BusinessDomain.AssemblyInfoInputs.cache
+C:\Users\artjomj\Desktop\SnakeyNew\Snakey\Uptime.Snakey.BusinessDomain\Uptime.Snakey.BusinessDomain\obj\Debug\netcoreapp3.0\Uptime.Snakey.BusinessDomain.AssemblyInfo.cs
+C:\Users\artjomj\Desktop\SnakeyNew\Snakey\Uptime.Snakey.BusinessDomain\Uptime.Snakey.BusinessDomain\obj\Debug\netcoreapp3.0\Uptime.Snakey.BusinessDomain.dll
+C:\Users\artjomj\Desktop\SnakeyNew\Snakey\Uptime.Snakey.BusinessDomain\Uptime.Snakey.BusinessDomain\obj\Debug\netcoreapp3.0\Uptime.Snakey.BusinessDomain.pdb

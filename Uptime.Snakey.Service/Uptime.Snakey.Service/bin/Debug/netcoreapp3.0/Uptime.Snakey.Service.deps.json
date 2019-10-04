@@ -1,0 +1,120 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Uptime.Snakey.Service/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2",
+          "Uptime.Snakey.BusinessDomain": "1.0.0"
+        },
+        "runtime": {
+          "Uptime.Snakey.Service.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.JsonPatch/3.0.0-preview-19075-0444": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.6.0-preview.19073.11",
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.AspNetCore.JsonPatch.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.19025"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Mvc.NewtonsoftJson/3.0.0-preview-19075-0444": {
+        "dependencies": {
+          "Microsoft.AspNetCore.JsonPatch": "3.0.0-preview-19075-0444",
+          "Newtonsoft.Json": "12.0.2",
+          "Newtonsoft.Json.Bson": "1.0.2"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.19025"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.6.0-preview.19073.11": {},
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "Newtonsoft.Json.Bson/1.0.2": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.Bson.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.2.22727"
+          }
+        }
+      },
+      "Uptime.Snakey.BusinessDomain/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "3.0.0-preview-19075-0444"
+        },
+        "runtime": {
+          "Uptime.Snakey.BusinessDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uptime.Snakey.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.JsonPatch/3.0.0-preview-19075-0444": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H9YTIJw1fUd5HOu9ugYb1SY6toDIokBJgRifH7cbfYyBMiZwKW6rdQH0wvgkk0zODrYHca+ekqZ5r0DqypO6cQ==",
+      "path": "microsoft.aspnetcore.jsonpatch/3.0.0-preview-19075-0444",
+      "hashPath": "microsoft.aspnetcore.jsonpatch.3.0.0-preview-19075-0444.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Mvc.NewtonsoftJson/3.0.0-preview-19075-0444": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+HqMZExhfCfJMKKJBI1V0USOtiBCbbgIaVBSbXxVyXunp7cUQqw4P2TJiXi+VDs/cfaq55AtIkCdoqICDMzsGg==",
+      "path": "microsoft.aspnetcore.mvc.newtonsoftjson/3.0.0-preview-19075-0444",
+      "hashPath": "microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0-preview-19075-0444.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.6.0-preview.19073.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WZjHp2URVsCsZeKCEtrho3C1WI7QY/aRmOdMCswZpZAMd3KMNeWSW9GryOTNBHNiL4doUoptFZ7QTI9vFZa4DA==",
+      "path": "microsoft.csharp/4.6.0-preview.19073.11",
+      "hashPath": "microsoft.csharp.4.6.0-preview.19073.11.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "Newtonsoft.Json.Bson/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QYFyxhaABwmq3p/21VrZNYvCg3DaEoN/wUuw5nmfAf0X3HLjgupwhkEWdgfb9nvGAUIv3osmZoD3kKl4jxEmYQ==",
+      "path": "newtonsoft.json.bson/1.0.2",
+      "hashPath": "newtonsoft.json.bson.1.0.2.nupkg.sha512"
+    },
+    "Uptime.Snakey.BusinessDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
