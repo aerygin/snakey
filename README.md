@@ -1,5 +1,4 @@
-##
-Setup
+##Setup
 
 navigate to folder **Uptime.Snakey.UI**
 `cd Uptime.Snakey.UI`
