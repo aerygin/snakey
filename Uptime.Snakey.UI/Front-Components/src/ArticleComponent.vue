@@ -48,7 +48,7 @@
 
         created() {
             axios
-                .get('http://localhost:63463/test/Snakey/GetRssFeed')
+                .get('http://localhost:63463/feed/Snakey/GetRssFeed')
                 .then((response) => {
                     this.feedList = response.data;
                     for (let i = 0; i < this.feedList.length; i++) {
@@ -75,7 +75,7 @@
                 this.showArticle = !this.showArticle;
                 this.clutterFreeLoading = true;
                 axios
-                    .post("http://localhost:63463/test/Snakey/GetCleanArticleFrom", {
+                    .post("http://localhost:63463/feed/Snakey/GetCleanArticleFrom", {
                         url: requestUrl,
                     })
                     .then((response) => {
@@ -113,8 +113,9 @@
     }
 
     .article-img {
-        width: 320px;
-        height: 270px;
+        /*width: 320px;
+        height: 270px;*/
+        width: 100%;
         object-fit: cover;
     }
 
@@ -159,9 +160,9 @@
 
     .loading {
         width: 100%;
-        text-align:center;
+        text-align: center;
         font-weight: 500;
-        font-size:18px;
+        font-size: 18px;
     }
 
 
@@ -181,9 +182,21 @@
     .modal {
         padding: 20px 30px;
         position: absolute;
-        width: 60%;
+        width: 70%;
         z-index: 9999;
         background-color: #FFF;
         border-radius: 5px;
+    }
+
+    pre {
+        overflow-x:scroll;
+    }
+
+    em {
+        word-break:break-all;
+    }
+
+    iframe {
+        width: 100% !important;
     }
 </style>
